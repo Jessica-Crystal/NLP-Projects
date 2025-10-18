@@ -1,5 +1,5 @@
 # These folders are ignored Because they are new repos inside of NLP-Projects
-fake-news-detection/
+#fake-news-detection/ # try to add it as a submodule, so no gitignore anymore for this
 named-entity-recognition/
 news-classification/
 question-answering/
