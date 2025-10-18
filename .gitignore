@@ -1,0 +1,12 @@
+# These folders are ignored Because they are new repos inside of NLP-Projects
+fake-news-detection/
+fake-news-detection/
+named-entity-recognition/
+named-entity-recognition/
+news-classification/
+question-answering/
+resume-screening/
+sentiment-analysis/
+text-summarization/
+topic-modeling/
+
