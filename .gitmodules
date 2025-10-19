@@ -1,3 +1,6 @@
 [submodule "Fake-News-Detection"]
 	path = Fake-News-Detection
 	url = https://github.com/Jessica-Crystal/Fake-News-Detection
+[submodule "topic-modeling-ml"]
+	path = topic-modeling-ml
+	url = https://github.com/Jessica-Crystal/topic-modeling-ml
