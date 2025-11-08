@@ -10,3 +10,6 @@
 [submodule "Sentiment-Analysis-PR"]
 	path = Sentiment-Analysis-PR
 	url = https://github.com/Jessica-Crystal/Sentiment-Analysis-PR.git
+[submodule "QA-standford"]
+	path = QA-standford
+	url = https://github.com/Jessica-Crystal/QA-standford.git
