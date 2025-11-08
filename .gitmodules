@@ -7,3 +7,6 @@
 [submodule "screening-resume"]
 	path = screening-resume
 	url = https://github.com/Jessica-Crystal/screening-resume.git
+[submodule "Sentiment-Analysis-PR"]
+	path = Sentiment-Analysis-PR
+	url = https://github.com/Jessica-Crystal/Sentiment-Analysis-PR.git
