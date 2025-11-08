@@ -4,3 +4,6 @@
 [submodule "topic-modeling-ml"]
 	path = topic-modeling-ml
 	url = https://github.com/Jessica-Crystal/topic-modeling-ml
+[submodule "screening-resume"]
+	path = screening-resume
+	url = https://github.com/Jessica-Crystal/screening-resume.git
